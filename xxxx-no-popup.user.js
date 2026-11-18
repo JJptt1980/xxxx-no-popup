@@ -2,7 +2,7 @@
 // @name         防彈出新分頁
 // @namespace    no-popup
 // @version      1.1
-// @author       killnopig
+// @author       JJptt1980
 // @license      MIT
 // @description  阻止點擊播放鍵時跳出新分頁 / 彈窗廣告。感謝 nike 大
 // @include      /^https?:\/\/([^/]+\.)?m[i]ssav\.(com|ws|ai)\//
