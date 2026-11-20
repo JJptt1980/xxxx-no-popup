@@ -1,5 +1,7 @@
 # 防彈出新分頁
 
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-%E8%AB%8B%E6%88%91%E5%96%9D%E6%9D%AF%E5%92%96%E5%95%A1-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/jjptt1980)
+
 感謝 nike 大
 
 一個 Tampermonkey 使用者腳本，阻止點擊播放鍵時跳出新分頁或彈窗廣告。
