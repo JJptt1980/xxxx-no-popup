@@ -3,7 +3,7 @@
 // @namespace    no-popup
 // @version      1.1
 // @author       JJptt1980
-// @license      MIT
+// @license      PolyForm-Noncommercial-1.0.0
 // @description  阻止點擊播放鍵時跳出新分頁 / 彈窗廣告。感謝 nike 大
 // @include      /^https?:\/\/([^/]+\.)?m[i]ssav\.(com|ws|ai)\//
 // @run-at       document-start
